@@ -1,5 +1,5 @@
 {
-    "name": "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}.Editor",
+    "name": "com.{{COMPANY}}.{{REPOSITORY_NAME}}.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

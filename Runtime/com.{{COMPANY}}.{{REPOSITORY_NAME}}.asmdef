@@ -1,5 +1,5 @@
 {
-    "name": "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}",
+    "name": "com.{{COMPANY}}.{{REPOSITORY_NAME}}",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
