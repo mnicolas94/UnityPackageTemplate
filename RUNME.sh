@@ -15,8 +15,8 @@ read -e -p "Company website: " -i "" COMPANY_WEBSITE
 read -e -p "Repository name: " -i "" REPOSITORY_NAME
 read -e -p "Friendly name: " -i "" FRIENDLY_NAME
 read -e -p "Description: " -i "" DESCRIPTION
-read -e -p "Unity version: " -i "2019.3" UNITY_VERSION
-read -e -p "Git repo: " -i "2019.3" GIT_REPOSITORY
+read -e -p "Unity version: " -i "" UNITY_VERSION
+read -e -p "Git repo: " -i "https://github.com/mnicolas94/<repo_name>.git" GIT_REPOSITORY
 
 # Escape special characters for input to be used in sed
 COMPANY_FRIENDLY_NAME=$(echo "$COMPANY_FRIENDLY_NAME" | sed -e 's/[]\/$*.^[]/\\&/g');
