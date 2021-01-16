@@ -18,5 +18,5 @@
     "type": "git",
     "url": "{{GIT_REPOSITORY}}"
   },
-  "license": "MIT",
+  "license": "MIT"
 }
