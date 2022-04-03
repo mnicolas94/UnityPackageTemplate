@@ -5,5 +5,7 @@ on:
     branches: [ main, dev, develop ]
     
 jobs:
-  run:
+  bumpVersion:
     uses: mnicolas94/UnityCICDWorkflows/.github/workflows/bump_patch.yml@v1-pre-8
+  updateJson:
+    uses: mnicolas94/UnityCICDWorkflows/.github/workflows/unity_package_set_version_from_tag.yml@v1-pre-8
