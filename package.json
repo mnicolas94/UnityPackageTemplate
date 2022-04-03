@@ -1,18 +1,16 @@
 {
   "name": "com.{{COMPANY}}.{{REPOSITORY_NAME}}",
-  "version": "0.0.0",
+  "version": "0.1.3",
   "displayName": "{{FRIENDLY_NAME}}",
   "description": "{{DESCRIPTION}}",
   "unity": "{{UNITY_VERSION}}",
   "unityRelease": "",
-  "dependencies": { },
-  "keywords": [
-    
-  ],
+  "dependencies": {},
+  "keywords": [],
   "author": {
-	  "name": "{{COMPANY_FRIENDLY_NAME}}",
-	  "email": "{{REPORT_EMAIL}}",
-	  "url": "{{COMPANY_WEBSITE}}"
+    "name": "{{COMPANY_FRIENDLY_NAME}}",
+    "email": "{{REPORT_EMAIL}}",
+    "url": "{{COMPANY_WEBSITE}}"
   },
   "repository": {
     "type": "git",
