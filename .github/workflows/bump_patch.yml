@@ -1,5 +1,5 @@
 name: Bump version patch on push to main branch
-#test
+#test 2
 on:
   push:
     branches: [ main, dev, develop ]
