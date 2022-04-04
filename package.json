@@ -1,6 +1,6 @@
 {
   "name": "com.{{COMPANY}}.{{REPOSITORY_NAME}}",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "displayName": "{{FRIENDLY_NAME}}",
   "description": "{{DESCRIPTION}}",
   "unity": "{{UNITY_VERSION}}",
