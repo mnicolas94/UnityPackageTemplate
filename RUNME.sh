@@ -8,8 +8,8 @@ then
     exit 1
 fi
 
-read -e -p "Company name: " -i "FunnyCode" COMPANY_FRIENDLY_NAME
-read -e -p "Company name in lower case: " -i "funnycode" COMPANY
+read -e -p "Company name: " -i "Facticus" COMPANY_FRIENDLY_NAME
+read -e -p "Company name in lower case: " -i "facticus" COMPANY
 read -e -p "Unacceptable behavior may be reported at: " -i "" REPORT_EMAIL
 read -e -p "Company website: " -i "" COMPANY_WEBSITE
 read -e -p "Repository name: " -i "" REPOSITORY_NAME
